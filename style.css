@@ -1,0 +1,12 @@
+body{
+    width: 100%;
+    text-align: center;
+    background: #222222;
+}
+
+#greeting{
+    color: #dfdfdf;
+    font-size: 32pt;
+    font-family: "Helvetica";
+    display: inline-block;
+}
